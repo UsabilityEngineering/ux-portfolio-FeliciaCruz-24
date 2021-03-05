@@ -1,10 +1,10 @@
 # UX Journal Entry 1 – Air Fryer
 
-### Felicia Cruz 
-### March 4th, 2021
+#### Felicia Cruz 
+#### March 4th, 2021
 
 
-#### Description of Interaction
+### Description of Interaction
 I decided to make some totinos pizza rolls for dinner, so the piece of technology I decided to document my interaction with is an air fryer. I plugged in the air fryer and a light turned on which looked like a power button so I pushed the button.
 
 ![Step 1](step_1.jpg) 
@@ -36,5 +36,5 @@ I pulled out the tray and took out the pizza rolls and placed them on a plate.
 ![Step 7](step_7.jpg)
 
 
-#### Usability Goals
+### Usability Goals
 After reflecting on my experience using the air fryer I was able to draw conclusions of the air fryer’s strengths and weaknesses and relate them to some of our usability goals we have learned in class. I feel that a strength of the air fryer is that it is a very **useful**, it can be used to cook food to all sorts of different foods such as chicken wings, fries, vegetables, frozen foods, and much more. In addition, the air fryer has many different cooking settings such as air fry, bake, broil, reheat, roast, keep warm, and dehydrate. All of these features that come with the air fryer make it extremely **useful**. A weakness I found while using the air fryer was that since it was my first time using it I found it to be pretty confusing. I didn’t find the air fryer to be very **learnable** because I couldn’t figure out how to get the air fryer to start preheating, therefore, I needed to look at the manual to figure out how to do it. So I did find the air fryer to be a little difficult to use and not very **learnable**, however, over time if I keep using it I think I will be able to learn it over time and not have to refer to the directions. 
