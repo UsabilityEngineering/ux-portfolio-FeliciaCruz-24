@@ -13,7 +13,7 @@ using an essential oil fan diffuser.
 ### Steps
 First thing I did was plug in the diffuser and pressed the power button. After I turned on the diffuser the top of it started changing colors.
 
-![Step_1](step1_entry2.jpg)
+<img src="step1_entry2.jpg" width="200">
 
 Afterwards, I decided to start reading the directions because I wasn't sure what to do next and started following the directions.The directions said to make sure the diffuser was unplugged before pulling off the bottom of the diffuser.
 
