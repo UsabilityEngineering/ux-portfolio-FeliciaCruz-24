@@ -35,3 +35,11 @@ I plugged the diffuser back in and I couldn't smell anything so I decided to add
 After that I could smell the orange fragrance more, but it was really intense. When I was done using the diffuser I pushed the power button and unplugged it.
 
 <img src="step6_entry2.jpg" width="200">
+
+
+## Usability Goals
+
+I have had time to reflect on my interactions with the essential oil fan diffuser and I think that my experience went pretty well. I was able to use the directions
+provided to help me figure out what to do and they were very easy to follow. The steps I did were very **memorable** and I can say for sure that if I decide to use the diffuser again I would be able to replicate the same steps I did without needing to follow the directions again. While reading through the directions I noticed that another usability goal that the air diffuser utilized was **safety**. In the directions it made sure to say that we needed to unlplug the diffuser before we remove the bottom of it to add essential oil to the absorbing pad which means that the creators of this product make sure to care about the **safety** of their users. 
+
+Futhermore, I believe that this was a great product that had very clear directions and did what it was supposed to do. However, I would say that one weakness was that the directions didn't give me any guidance on how many drops of the essential oil I should add, so I had to make an educated guess and then make adjustments. But, even though I have never used an oil diffuser before I was able to figure out how to use it by following the directions and was able to get it to work correctly.
