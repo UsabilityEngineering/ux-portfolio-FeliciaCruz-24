@@ -4,13 +4,13 @@
 #### April 27th, 2021
 
 
-### Description of Interaction
+## Description of Interaction
 
-## Overview
+### Overview
 I decided to try using my Mom's essential oil diffuser that she got as a Christmas gift. I have never used one before so I thought I would try using it and document my interaction 
 using an essential oil fan diffuser.
 
-## Steps
+### Steps
 First thing I did was plug in the diffuser and pressed the power button. After I turned on the diffuser the top of it started changing colors.
 
 ![Step_1](step1_entry2.jpg)
